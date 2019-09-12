@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://kokosoul:520Shenghe@devdev-hr1ne.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://kokosoul:520Shenghe@devdev-hr1ne.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "Kokosoul123"
 }
